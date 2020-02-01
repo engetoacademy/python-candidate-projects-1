@@ -78,6 +78,10 @@ If we summed all the numbers in this text we would get: 300.0
 ----------------------------------------
 ```
 
+#### Source Code
+
+The source code can be found in the file **text_analyzer.py**
+
 ### Bulls & Cows
 
 #### Task Description
@@ -113,3 +117,6 @@ Extend the functionality of the program as you wish. For example
  * Counting time it took to guess the number
  * Count the number of guesses and store them in a file and at the end depict user's stats (the best player etc.)
 
+#### Source Code
+
+The source code can be found in the file **bulls_and_cows.py**
